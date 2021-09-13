@@ -2,7 +2,7 @@
 
 Genesys Transfer Data
 - API version: 1.0.0
-  - Build date: 2021-09-13T13:26:19.399Z[GMT]
+  - Build date: 2021-09-13T13:29:25.762Z[GMT]
 
 API for storing/retrieving transfer data.
 

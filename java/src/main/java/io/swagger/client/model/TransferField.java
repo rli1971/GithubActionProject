@@ -25,7 +25,7 @@ import java.io.IOException;
  * TransferField
  */
 
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2021-09-13T13:26:19.399Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2021-09-13T13:29:25.762Z[GMT]")
 public class TransferField implements AnyOfTransferDataField {
   @SerializedName("keyName")
   private String keyName = null;
